@@ -24,7 +24,7 @@
         }else{
             $numero = ($numero * 3) + 1;
         }
-         echo numero . "<br>";
+         echo $numero . "<br>";
          
     }
         ?>
